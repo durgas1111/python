@@ -116,3 +116,42 @@ n = 24
 
 
 That’s the full problem, logic, code, and examples all together.
+
+
+====================================================
+
+#!/bin/python3
+
+import math
+import os
+import random
+import re
+import sys
+n = int(input())
+if n % 2 != 0:
+    print("Weird")
+else:
+    if 2 <= n <= 5:
+        print("Not Weird")
+    elif 6 <= n <= 20:
+        print("Weird")
+    else:
+        print("Not Weird")
+
+
+Congratulations!
+
+You have passed the sample test cases. Click the submit button to run your code against all the test cases.
+Input (stdin)
+
+    3
+
+Your Output (stdout)
+
+    Weird
+
+Expected Output
+
+    Weird
+
+
