@@ -63,4 +63,26 @@ def is_leap(year):
 year = int(input())
 print(is_leap(year))
 
+===========================
+
+Putput
+
+Congratulations!
+
+You have passed the sample test cases. Click the submit button to run your code against all the test cases.
+Input (stdin)
+
+    1990
+
+Your Output (stdout)
+
+    False
+
+Expected Output
+
+    False
+
+===========================
+
+
  
