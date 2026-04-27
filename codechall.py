@@ -1,4 +1,4 @@
-Coding Exercise: Decoding a Secret Message
+ICoding Exercise: Decoding a Secret Message
 
 In this exercise, you will write code to solve a problem. Your code must be in Python (preferred), JavaScript, TypeScript, Java, Kotlin, C#, C++, Go, Rust, Swift or Ruby—solutions in other languages will not be accepted! You can write your code using any IDE you want.
 
@@ -2843,3 +2843,5 @@ y-coordinate
 	
 
 4
+To verify that your code works, please run your function with this URL as its argument: https://docs.google.com/document/d/e/2PACX-1vSvM5gDlNvt7npYHhp_XfsJvuntUhq184By5xO_pA4b_gCWeXb6dM6ZxwN8rE6S4ghUsCj2VKR21oEP/pub What is the secret message encoded by this document? Your answer should only contain uppercase letters.
+CONGRATULATIONSYOUDECODEDTHESECRETMESSAGE
